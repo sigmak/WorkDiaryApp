@@ -8,4 +8,11 @@ DBMS : sqlite 1.0.119.0
 업무일지 탭과 프로그래밍 팁 탭 2가지
 
 
+--------------------------------
+[0.0.1] 버전
 
+<img src='https://raw.githubusercontent.com/sigmak/WorkDiaryApp/refs/heads/main/images/ver_0-0-1A.png' />
+
+<img src='https://raw.githubusercontent.com/sigmak/WorkDiaryApp/refs/heads/main/images/ver_0-0-1B.png' />
+
+--------------------------------
